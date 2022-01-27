@@ -209,6 +209,7 @@ class TitleState extends MusicBeatState
 	
 	var adaleotitleborder:FlxSprite;
 	var sariaMyBeloved:FlxSprite;
+	var palaceShown:Bool = false;
 
 	function startIntro()
 	{
@@ -261,6 +262,7 @@ class TitleState extends MusicBeatState
 			bg.updateHitbox();
 			bg.screenCenter();
 			bg.antialiasing = true;
+			palaceShown = true;
 		}
 		
 		// bg.antialiasing = ClientPrefs.globalAntialiasing;
@@ -369,7 +371,12 @@ class TitleState extends MusicBeatState
 	
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 		add(gfDance);
+		
+		if(palaceShown) // no palace, no saria
+		{
 		add(sariaMyBeloved);
+		}
+		
 		gfDance.shader = swagShader.shader;
 		add(logoBl);
 		//logoBl.shader = swagShader.shader;
