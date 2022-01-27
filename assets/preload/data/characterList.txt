@@ -1,0 +1,7 @@
+bf
+bf_enemy
+dad
+gf
+saria
+saria_fly
+saria2

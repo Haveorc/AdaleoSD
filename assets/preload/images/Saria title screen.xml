@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Saria title screen.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Saria title0000" x="6" y="6" width="545" height="712" frameX="0" frameY="-1" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0001" x="551" y="6" width="545" height="710" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0002" x="1096" y="6" width="545" height="709" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0003" x="1641" y="6" width="545" height="708" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0004" x="2186" y="6" width="545" height="707" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0005" x="2731" y="6" width="545" height="707" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0006" x="3276" y="6" width="544" height="707" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0007" x="3276" y="6" width="544" height="707" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0008" x="3276" y="6" width="544" height="707" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+	<SubTexture name="Saria title0009" x="3276" y="6" width="544" height="707" frameX="0" frameY="0" frameWidth="545" frameHeight="713"/>
+</TextureAtlas>

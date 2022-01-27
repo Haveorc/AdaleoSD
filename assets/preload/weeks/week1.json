@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Adaleo", "saria", [255, 220, 64]],
+		["Eternal", "saria", [255, 220, 64]]
+	],
+
+	"weekCharacters": [
+		"saria",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "entrance",
+
+	"storyName": "Welcome to the Palace",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

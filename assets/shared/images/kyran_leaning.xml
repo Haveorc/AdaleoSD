@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kyran_leaning.png">
+	<SubTexture name="Kyran dance0000" x="6" y="6" width="254" height="360" frameX="0" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0001" x="260" y="6" width="251" height="360" frameX="-1" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0002" x="511" y="6" width="248" height="360" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0003" x="759" y="6" width="247" height="360" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0004" x="1006" y="6" width="246" height="360" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0005" x="1252" y="6" width="245" height="360" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0006" x="1497" y="6" width="244" height="360" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0007" x="1741" y="6" width="244" height="361" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0008" x="6" y="367" width="243" height="360" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+	<SubTexture name="Kyran dance0009" x="249" y="367" width="243" height="360" frameX="-2" frameY="0" frameWidth="254" frameHeight="361"/>
+</TextureAtlas>

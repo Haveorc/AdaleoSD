@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Saria FlyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Saria FlyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Saria FlyRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Saria FlyDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Saria Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Saria",
+	"position": [
+		48,
+		190
+	],
+	"healthicon": "sariahappy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		220,
+		64
+	],
+	"camera_position": [
+		132,
+		125
+	],
+	"sing_duration": 5.1,
+	"scale": 1
+}
