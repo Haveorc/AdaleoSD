@@ -6360,7 +6360,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "bf_enemy",
+		"player2": "twinbf",
 		"player3": "gf",
 		"song": "Twin Spark",
 		"sections": 0,

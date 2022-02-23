@@ -2538,7 +2538,7 @@ class PlayState extends MusicBeatState
 			if(FlxG.keys.justPressed.TWO) { //Go 10 seconds into the future :O
 				FlxG.sound.music.pause();
 				vocals.pause();
-				Conductor.songPosition += 10000;
+					Conductor.songPosition += 10000;
 				notes.forEachAlive(function(daNote:Note)
 				{
 					if(daNote.strumTime + 800 < Conductor.songPosition) {

@@ -2,7 +2,7 @@
 	"song": {
 		"sectionLengths": [],
 		"player1": "bf",
-		"player2": "bf_enemy",
+		"player2": "twinbf",
 		"notes": [
 			{
 				"sectionNotes": [],

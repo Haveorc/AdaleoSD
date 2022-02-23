@@ -3,7 +3,7 @@
 		"speed": 2.5,
 		"stage": "entrance",
 		"player1": "bf",
-		"player2": "bf_enemy",
+		"player2": "twinbf",
 		"player3": "gf",
 		"notes": [
 			{
