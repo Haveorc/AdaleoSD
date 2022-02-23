@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		70
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SariaNormal",
+			"idle_name": "SariaNormal"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "closed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SariaClosed0",
+			"idle_name": "SariaClosed0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "closedalt",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SariaClosedAlt",
+			"idle_name": "SariaClosedAlt"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SariaHappy",
+			"idle_name": "SariaHappy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mic",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SariaMic",
+			"idle_name": "SariaMic"
+		}
+	],
+	"image": "Saria_Dialogue_Assets"
+}

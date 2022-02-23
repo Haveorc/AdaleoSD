@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kyran_Dialogue_Middle.png">
+	<SubTexture name="KyranNormal0000" x="0" y="0" width="300" height="400" frameX="0" frameY="0" frameWidth="300" frameHeight="400"/>
+	<SubTexture name="KyranWink0000" x="300" y="0" width="300" height="400" frameX="0" frameY="0" frameWidth="300" frameHeight="400"/>
+	<SubTexture name="none0000" x="300" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>

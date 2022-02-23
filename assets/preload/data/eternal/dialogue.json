@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "closedalt",
+			"text": "So you really are as good as they say, huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyran",
+			"boxState": "normal",
+			"expression": "noportrait",
+			"text": "Wait, who's here right now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Kyran, this is Boyfriend! We invited him, remember?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "kyran",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "...Of course! I remember planning things about it with Adallis a little while ago now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is that Adallis your friend or anything?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyran",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Girlfriend, she's part of our trio."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "It's her, Kyran and I who form this trio. But there's a reason for your invitation, Boyfriend."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "closedalt",
+			"text": "See, we're well aware of how many you've faced and won against. I still remember that bomb guy's battle with you to this day."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...We tend to get teleported everywhere. I don't know why it happens. Perhaps my dad has some plans..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "So, let's keep going?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Let's do it! You two, next song!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyran",
+			"boxState": "normal",
+			"expression": "wink",
+			"text": "What she said! Let's see him in action!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "Babobep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "closedalt",
+			"text": "No more distractions."
+		}
+	]
+}

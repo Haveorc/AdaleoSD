@@ -1,0 +1,50 @@
+{
+	"position": [
+		70,
+		100
+	],
+	"dialogue_pos": "center",
+	"scale": 1.5,
+	"image": "Kyran_Dialogue_Middle",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_name": "KyranNormal",
+			"loop_name": "KyranNormal"
+		},
+		{
+			"anim": "wink",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "KyranWink",
+			"loop_name": "KyranWink"
+		},
+		{
+			"anim": "noportrait",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "none",
+			"loop_name": "none"
+		}
+	]
+}

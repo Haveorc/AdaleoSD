@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Saria_Dialogue_Assets.png">
+	<SubTexture name="SariaNormal0000" x="0" y="0" width="400" height="450" frameX="0" frameY="0" frameWidth="400" frameHeight="450"/>
+	<SubTexture name="SariaClosed0000" x="400" y="0" width="400" height="450" frameX="0" frameY="0" frameWidth="400" frameHeight="450"/>
+	<SubTexture name="SariaClosedAlt0000" x="800" y="0" width="400" height="450" frameX="0" frameY="0" frameWidth="400" frameHeight="450"/>
+	<SubTexture name="SariaHappy0000" x="1200" y="0" width="400" height="450" frameX="0" frameY="0" frameWidth="400" frameHeight="450"/>
+	<SubTexture name="SariaMic0000" x="1600" y="0" width="400" height="450" frameX="0" frameY="0" frameWidth="400" frameHeight="450"/>
+</TextureAtlas>

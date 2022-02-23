@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Welcome! You've been invited for a little showdown, right here!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "This is our palace, run by our space queen. While she's currently doing her duties in space, we keep watch over here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep ba."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "But anyway, you must be the boyfriend of that ex-rockstar's daughter, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "Bobap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just call him Boyfriend. Anyway, what about you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "closed",
+			"text": "Me? The name's Saria."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm one of the three Adaleo remaining in the universe. We have a trio that consists of those three, including myself!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...What happened to the rest of them?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "closedalt",
+			"text": "We are an ancient species. Every Adaleo has evolved into other species, but us."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "closed",
+			"text": "The trio and I can't really age. By the way, you can also tell it's us by our unique markings."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "saria",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Anyway, wanna do a few songs together?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "Beep bo!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "saria",
+			"boxState": "angry",
+			"expression": "mic",
+			"text": "Well, let's get to it!"
+		}
+	]
+}
